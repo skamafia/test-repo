@@ -25,7 +25,7 @@
 	作ったファイルの内容が出てるので、
 	summary: テストコミット
 	description:	テストコミットです。
-	でコミット
+	でコミットして、「sync」をクリック
 
 6. webで自分のリポジトリ確認
 	https://github.com/自分のアカウント/test-repo
